@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ad8e7ed5907fc45e","type":"group","x":-100,"y":-220,"width":900,"height":640,"label":"cat code"},
+		{
+			"id":"fb83fd2030f672af",
+			"type":"text",
+			"text":"int main()",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{"id":"b469ca6274720bdb","type":"file","file":"S21/С-1/SimpleBashUtils.md","x":-860,"y":-480,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"289aca6061187f1c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b469ca6274720bdb",
+			"fromSide":"right",
+			"toNode":"ad8e7ed5907fc45e",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
