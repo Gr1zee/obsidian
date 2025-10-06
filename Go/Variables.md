@@ -4,6 +4,10 @@ created_date: 2025-09-11
 updated_date: 2025-09-11
 type: note
 link: "[[Data types]]"
+tags:
+  - 09-2025
+  - go
+  - IT
 ---
 
 # Variables
