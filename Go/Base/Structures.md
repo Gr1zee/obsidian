@@ -53,3 +53,16 @@ func (s *Student) printData() {
 }
 ```
 
+
+## Конструктор структуры:
+
+"Конструктором" будет обычная функция, возвращающая экземпляр этой структуры:
+```go
+func NewPerson(name string, age int) *Person {
+    return &Person{
+        Name: name,
+        Age:  age,
+    }
+}
+```
+
