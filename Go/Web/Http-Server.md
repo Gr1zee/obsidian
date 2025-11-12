@@ -10,4 +10,8 @@ tags:
   - go
 ---
 
-# Http-Server
+# Обработка запросов с помощью http.Handler и http.HandleFunc
+
+`http.Handler` и `http.HandleFunc` — это два способа обработки HTTP-запросов в Go.
+
+`http.Handler` — интерфейс, который определяет метод `ServeHTTP` и с его помощью принимает `http.ResponseWriter` и `*http.Request`

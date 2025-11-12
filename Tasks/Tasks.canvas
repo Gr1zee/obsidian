@@ -1,0 +1,76 @@
+{
+	"nodes":[
+		{
+			"id":"070fd9f62815eece",
+			"type":"text",
+			"text":"University\n```tasks\npath includes Таски University\nnot done\n```",
+			"styleAttributes":{},
+			"x":-85,
+			"y":-50,
+			"width":745,
+			"height":310,
+			"color":"6"
+		},
+		{
+			"id":"c68b4750400d4f8f",
+			"type":"text",
+			"text":"S21\n```tasks\npath includes Таски S21\nnot done\n\n```",
+			"styleAttributes":{},
+			"x":-835,
+			"y":-50,
+			"width":715,
+			"height":310,
+			"color":"#00ff40"
+		},
+		{
+			"id":"20a19a1293060997",
+			"type":"text",
+			"text":"Total\n```tasks\nnot done\n```",
+			"styleAttributes":{},
+			"x":-835,
+			"y":-420,
+			"width":715,
+			"height":340,
+			"color":"3"
+		},
+		{
+			"id":"dc25898e2f858a67",
+			"type":"text",
+			"text":"Go\n```tasks\npath includes Таски Go\n```",
+			"styleAttributes":{},
+			"x":-90,
+			"y":-420,
+			"width":750,
+			"height":340,
+			"color":"5"
+		},
+		{
+			"id":"850d0c71ee05de03",
+			"type":"text",
+			"text":"Today\n\n```tasks\ndue date: today\n```",
+			"styleAttributes":{},
+			"x":720,
+			"y":-420,
+			"width":560,
+			"height":680,
+			"color":"#110094"
+		},
+		{
+			"id":"70109b5e9704498b",
+			"type":"text",
+			"text":"Done\n```tasks\ndone\n```",
+			"styleAttributes":{},
+			"x":-837,
+			"y":320,
+			"width":1495,
+			"height":340,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"ac6be857224bef75"
+	}
+}
