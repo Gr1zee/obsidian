@@ -14,7 +14,7 @@
 		{
 			"id":"c68b4750400d4f8f",
 			"type":"text",
-			"text":"S21\n```tasks\npath includes Таски S21\nnot done\n\n```",
+			"text":"S21\n```tasks\npath includes Decimal\nnot done\n```",
 			"styleAttributes":{},
 			"x":-835,
 			"y":-50,
@@ -31,18 +31,7 @@
 			"y":-420,
 			"width":715,
 			"height":340,
-			"color":"3"
-		},
-		{
-			"id":"dc25898e2f858a67",
-			"type":"text",
-			"text":"Go\n```tasks\npath includes Таски Go\n```",
-			"styleAttributes":{},
-			"x":-90,
-			"y":-420,
-			"width":750,
-			"height":340,
-			"color":"5"
+			"color":"1"
 		},
 		{
 			"id":"850d0c71ee05de03",
@@ -65,6 +54,17 @@
 			"width":1495,
 			"height":340,
 			"color":"4"
+		},
+		{
+			"id":"87da55393b144fed",
+			"type":"text",
+			"text":"Y",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-420,
+			"width":740,
+			"height":340,
+			"color":"3"
 		}
 	],
 	"edges":[],
