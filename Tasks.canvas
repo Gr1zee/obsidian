@@ -14,7 +14,7 @@
 		{
 			"id":"c68b4750400d4f8f",
 			"type":"text",
-			"text":"S21\n```tasks\npath includes Decimal\nnot done\n```",
+			"text":"S21\n```tasks\npath includes Decimal\n```",
 			"styleAttributes":{},
 			"x":-835,
 			"y":-50,
@@ -30,8 +30,7 @@
 			"x":-835,
 			"y":-420,
 			"width":715,
-			"height":340,
-			"color":"1"
+			"height":340
 		},
 		{
 			"id":"850d0c71ee05de03",
@@ -58,7 +57,7 @@
 		{
 			"id":"87da55393b144fed",
 			"type":"text",
-			"text":"Y",
+			"text":"Yandex\n\n```tasks\npath includes Goals Yandex\n```",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-420,
